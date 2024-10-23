@@ -152,6 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DivisorsLib.cpp" />
+    <ClCompile Include="divosors.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Divisors.h" />

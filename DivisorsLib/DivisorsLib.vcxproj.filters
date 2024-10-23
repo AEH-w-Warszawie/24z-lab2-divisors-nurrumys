@@ -18,6 +18,9 @@
     <ClCompile Include="DivisorsLib.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="divosors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Divisors.h">
